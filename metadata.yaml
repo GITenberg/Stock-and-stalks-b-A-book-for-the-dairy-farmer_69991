@@ -1,0 +1,25 @@
+_repo: Stock-and-stalks-b-A-book-for-the-dairy-farmer_69991
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roberts, J. R.
+    gutenberg_agent_id: '55532'
+    url: http://www.gutenberg.org/2009/agents/55532
+description: ''
+gutenberg_issued: '2023-02-08'
+identifiers:
+  gutenberg: '69991'
+language: en
+pgterms:marc905: 20220109171625roberts
+pgterms:marc906: '1921'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bJ. R. Roberts, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Stock and stalks : $b A book for the dairy farmer'
+url: http://www.gutenberg.org/ebooks/69991
